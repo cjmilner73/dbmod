@@ -1,0 +1,51 @@
+@font-face {
+    font-family: 'amazon-ember';
+    /* font-family: 'bookerly-regular'; */
+    src: url('fonts/Amazon-Ember-Medium.ttf');
+    /* src: url('fonts/Bookerly-Regular.ttf'); */
+    font-style: normal;
+}
+
+body {
+    font-size: 2em;
+    line-height: 18px;
+    font-family: 'amazon-ember';
+    line-height: 23px;
+    /* color: #152939; */
+    color: white;
+    background-color: #152939;
+}
+
+.navbar-aws-blue {
+  background: #152939;
+}
+
+.bg-aws-blue {
+  background: #152939;
+  
+}.text-aws-blue {
+  color: #152939;
+  font-size: medium;
+}
+
+.btn-aws {
+  color: white;
+  background-color: #FF9900;
+  border: none;
+  padding: 8px 36px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.btn-aws:hover {
+  background-color: #d37f00;
+  color: white;
+}
+
+.thin-text {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: 1;
+}
+img {
+  margin: 20px
+}
